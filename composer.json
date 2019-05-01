@@ -5,7 +5,9 @@
     "license": "MIT",
     "authors": [{
         "name": "TNT Studio",
-        "email": "info@tntstudio.hr"
+        "email": "info@tntstudio.hr",
+        "homepage": "http://www.manchu.work",
+        "role": "Developer"
     }],
     "require": {
         "php": ">=7.0",
